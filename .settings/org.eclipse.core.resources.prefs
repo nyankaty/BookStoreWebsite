@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/bookstore/entity/Users.java=UTF-8
+encoding//src/com/bookstore/service/UserServices.java=UTF-8
+encoding//test/com/bookstore/dao/CategoryDAOTest.java=UTF-8
+encoding//test/com/bookstore/dao/UserDAOTest.java=UTF-8
+encoding//test/com/bookstore/entity/UsersTest.java=UTF-8
